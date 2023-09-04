@@ -1,5 +1,8 @@
 # Chatbot UI
 
+## Fork Info
+Added support to ChatGPT 3.5 turbo 16k
+
 ## News
 
 Chatbot UI 2.0 is out as an updated, hosted product!
